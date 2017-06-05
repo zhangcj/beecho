@@ -7,7 +7,6 @@ import com.xxx.beecho.common.codec.RpcEncoder;
 import com.xxx.beecho.registry.ServiceRegistry;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
-import io.netty.channel.nio.NioEventLoop;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
@@ -55,13 +54,13 @@ public class BeechoServer implements InitializingBean,ApplicationContextAware {
      */
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
-        //扫描带有 EchoService 注解的类，并初始化 handlerMap 对象
-        Map<String,Object> serviceBeanMap = applicationContext.getBeansWithAnnotation(EchoService.class);
+        //扫描带有 Echo 注解的类，并初始化 handlerMap 对象
+        Map<String,Object> serviceBeanMap = applicationContext.getBeansWithAnnotation(Echo.class);
         if(MapUtils.isNotEmpty(serviceBeanMap)){
             for (Object serviceBean : serviceBeanMap.values()){
-                EchoService echoService = serviceBean.getClass().getAnnotation(EchoService.class);
-                String serviceName = echoService.value().getName();
-                String serviceVersion = echoService.version();
+                Echo echo = serviceBean.getClass().getAnnotation(Echo.class);
+                String serviceName = echo.value().getName();
+                String serviceVersion = echo.version();
                 if(com.xxx.beecho.common.util.StringUtil.isNotEmpty(serviceVersion)) {
                     serviceName += "-" + serviceVersion;
                 }

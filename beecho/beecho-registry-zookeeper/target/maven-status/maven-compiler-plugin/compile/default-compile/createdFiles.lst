@@ -1,2 +1,3 @@
 com\xxx\beecho\registry\zookeeper\Constant.class
 com\xxx\beecho\registry\zookeeper\ZooKeeperServiceRegistry.class
+com\xxx\beecho\registry\zookeeper\ZooKeeperServiceDiscovery.class

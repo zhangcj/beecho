@@ -2,50 +2,133 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab5ce6a-0085-4202-a36a-542ac44f5f7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_26_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/bean/RpcRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/bean/RpcResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/codec/RpcDecoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/codec/RpcEncoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/util/CollectionUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/util/SerializationUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/util/StringUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceDiscovery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/example-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/src/main/java/com/xxx/beecho/example/api/EchoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-api/src/main/java/com/xxx/beecho/example/api/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/example-server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/src/main/java/com/xxx/beecho/example/server/RpcBootstrap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/src/main/resources/rpc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example-server/src/main/resources/spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/example.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/src/main/java/com/xxx/beecho/example/client/EchoClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/src/main/resources/rpc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../example/src/main/resources/spring.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/RpcRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/RpcResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/class-use/RpcRequest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/class-use/RpcResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/bean/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/RpcDecoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/RpcEncoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/class-use/RpcDecoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/class-use/RpcEncoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/codec/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/CollectionUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/SerializationUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/StringUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/class-use/CollectionUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/class-use/SerializationUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/class-use/StringUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/com/xxx/beecho/common/util/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/javadoc.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/options" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/packages" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/apidocs/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/beecho-common-1.0-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-common/target/javadoc-bundle-options/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/EchoService.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcClient$1.class" afterPath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcClient.class" afterPath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcProxy$1.class" afterPath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcProxy$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcProxy.class" afterPath="$PROJECT_DIR$/beecho-client/target/classes/com/xxx/beecho/client/RpcProxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/beecho-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/beecho-common/target/beecho-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/bean/RpcRequest.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/bean/RpcRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/bean/RpcResponse.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/bean/RpcResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/codec/RpcDecoder.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/codec/RpcDecoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/codec/RpcEncoder.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/codec/RpcEncoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/CollectionUtil.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/CollectionUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/SerializationUtil.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/SerializationUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/StringUtil.class" afterPath="$PROJECT_DIR$/beecho-common/target/classes/com/xxx/beecho/common/util/StringUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/Constant.class" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/Constant.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.class" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry/target/classes/com/xxx/beecho/registry/ServiceDiscovery.class" afterPath="$PROJECT_DIR$/beecho-registry/target/classes/com/xxx/beecho/registry/ServiceDiscovery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry/target/classes/com/xxx/beecho/registry/ServiceRegistry.class" afterPath="$PROJECT_DIR$/beecho-registry/target/classes/com/xxx/beecho/registry/ServiceRegistry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer$1.class" afterPath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer.class" afterPath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/RpcServerHandler.class" afterPath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/RpcServerHandler.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/beecho-client.iml" afterPath="$PROJECT_DIR$/beecho-client/beecho-client.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-client/pom.xml" afterPath="$PROJECT_DIR$/beecho-client/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/beecho-common.iml" afterPath="$PROJECT_DIR$/beecho-common/beecho-common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/pom.xml" afterPath="$PROJECT_DIR$/beecho-common/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/beecho-common/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry/beecho-registry.iml" afterPath="$PROJECT_DIR$/beecho-registry/beecho-registry.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/beecho-server.iml" afterPath="$PROJECT_DIR$/beecho-server/beecho-server.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/pom.xml" afterPath="$PROJECT_DIR$/beecho-server/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" afterPath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/beecho-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/beecho-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho.iml" afterPath="$PROJECT_DIR$/beecho.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/EchoService.java" afterPath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java" />
     </list>
     <ignored path="beecho.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,30 +158,115 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RpcClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcClient.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1528#2029#0" expanded="true" />
-                <element signature="e#2028#2029#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RpcProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
+                <element signature="e#582#583#0" expanded="false" />
+                <element signature="e#634#635#0" expanded="false" />
+                <element signature="e#692#693#0" expanded="false" />
+                <element signature="e#748#749#0" expanded="false" />
+                <element signature="e#806#807#0" expanded="false" />
+                <element signature="e#855#856#0" expanded="false" />
                 <element signature="method#create#1;class#RpcProxy#0" expanded="false" />
-                <element signature="e#1118#3384#0" expanded="true" />
-                <element signature="e#3383#3384#0" expanded="true" />
+                <marker date="1496652228922" expanded="true" signature="354:430" ph="/**...*/" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Echo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeechoServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+              <folding>
+                <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
+                <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
+                <element signature="method#afterPropertiesSet#0;class#BeechoServer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZooKeeperServiceRegistry.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,7 +293,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/EchoService.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java" />
         <option value="$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceDiscovery.java" />
         <option value="$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml" />
@@ -145,6 +312,9 @@
         <option value="$PROJECT_DIR$/beecho-client/pom.xml" />
         <option value="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcClient.java" />
         <option value="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java" />
+        <option value="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" />
       </list>
     </option>
   </component>
@@ -165,11 +335,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="release" />
-      </list>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -178,6 +343,10 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="beecho-server" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -185,8 +354,18 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="beecho" />
+          <option name="myItemId" value="beecho-server" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -238,6 +417,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho-registry-zookeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho-registry-zookeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beecho-registry-zookeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zookeeper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -711,31 +952,32 @@
       <updated>1496630039566</updated>
       <workItem from="1496630043842" duration="168000" />
       <workItem from="1496630408767" duration="3429000" />
-      <workItem from="1496639599158" duration="8363000" />
+      <workItem from="1496639599158" duration="13124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11960000" />
+    <option name="totallyTimeSpent" value="16721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19322917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29926237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29926237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -746,7 +988,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -793,7 +1034,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/EchoService.java">
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
@@ -808,12 +1049,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
             <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
             <element signature="method#afterPropertiesSet#0;class#BeechoServer#0" expanded="false" />
-            <element signature="e#3331#3851#0" expanded="true" />
-            <element signature="e#3850#3851#0" expanded="true" />
+            <element signature="e#3240#3760#0" expanded="false" />
+            <element signature="e#3759#3760#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -882,16 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/EchoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceDiscovery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -900,60 +1131,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-registry/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="92" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="102" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1025,44 +1206,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="869">
-          <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
-            <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
-            <element signature="method#afterPropertiesSet#0;class#BeechoServer#0" expanded="false" />
-            <element signature="e#3331#3851#0" expanded="true" />
-            <element signature="e#3850#3851#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,9 +1227,7 @@
         <state relative-caret-position="253">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1528#2029#0" expanded="true" />
-            <element signature="e#2028#2029#0" expanded="true" />
+            <marker date="1496651538733" expanded="true" signature="492:567" ph="/**...*/" />
           </folding>
         </state>
       </provider>
@@ -1091,10 +1237,110 @@
         <state relative-caret-position="126">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
+            <element signature="e#582#583#0" expanded="false" />
+            <element signature="e#634#635#0" expanded="false" />
+            <element signature="e#692#693#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#855#856#0" expanded="false" />
             <element signature="method#create#1;class#RpcProxy#0" expanded="false" />
-            <element signature="e#1118#3384#0" expanded="true" />
-            <element signature="e#3383#3384#0" expanded="true" />
+            <marker date="1496652228922" expanded="true" signature="354:430" ph="/**...*/" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
+            <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
+            <element signature="method#afterPropertiesSet#0;class#BeechoServer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#discover#0;class#ZooKeeperServiceDiscovery#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>

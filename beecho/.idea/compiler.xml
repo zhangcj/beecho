@@ -30,12 +30,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="beecho" target="1.7" />
-      <module name="beecho-client" target="1.7" />
-      <module name="beecho-common" target="1.7" />
-      <module name="beecho-registry" target="1.7" />
-      <module name="beecho-registry-zookeeper" target="1.7" />
-      <module name="beecho-server" target="1.7" />
+      <module name="beecho" target="1.8" />
+      <module name="beecho-client" target="1.8" />
+      <module name="beecho-common" target="1.8" />
+      <module name="beecho-registry" target="1.8" />
+      <module name="beecho-registry-zookeeper" target="1.8" />
+      <module name="beecho-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
