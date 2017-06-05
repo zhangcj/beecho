@@ -11,5 +11,18 @@
 
     <artifactId>beecho-client</artifactId>
 
-
+    <dependencies>
+        <!-- Beecho Common -->
+        <dependency>
+            <groupId>com.xxx.beecho</groupId>
+            <artifactId>beecho-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- Beecho Registry With Zookeeper -->
+        <dependency>
+            <groupId>com.xxx.beecho</groupId>
+            <artifactId>beecho-registry-zookeeper</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>

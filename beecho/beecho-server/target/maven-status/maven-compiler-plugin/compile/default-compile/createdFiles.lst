@@ -1,0 +1,4 @@
+com\xxx\beecho\server\BeechoServer.class
+com\xxx\beecho\server\RpcServerHandler.class
+com\xxx\beecho\server\EchoService.class
+com\xxx\beecho\server\BeechoServer$1.class

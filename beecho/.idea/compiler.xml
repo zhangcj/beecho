@@ -25,15 +25,17 @@
         <module name="beecho-client" />
         <module name="beecho-common" />
         <module name="beecho-registry" />
+        <module name="beecho-registry-zookeeper" />
         <module name="beecho-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="beecho" target="1.5" />
-      <module name="beecho-client" target="1.5" />
-      <module name="beecho-common" target="1.5" />
-      <module name="beecho-registry" target="1.5" />
-      <module name="beecho-server" target="1.5" />
+      <module name="beecho" target="1.7" />
+      <module name="beecho-client" target="1.7" />
+      <module name="beecho-common" target="1.7" />
+      <module name="beecho-registry" target="1.7" />
+      <module name="beecho-registry-zookeeper" target="1.7" />
+      <module name="beecho-server" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

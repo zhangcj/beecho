@@ -11,5 +11,36 @@
 
     <artifactId>beecho-server</artifactId>
 
+    <dependencies>
+        <!--Spring-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+        <!--CGLib-->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+        </dependency>
+        <!-- Apache Commons Collections -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>${version.commons-collections}</version>
+        </dependency>
+        <!--Beecho common-->
+        <dependency>
+            <groupId>com.xxx.beecho</groupId>
+            <artifactId>beecho-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--Beecho registry with zookeeper-->
+        <dependency>
+            <groupId>com.xxx.beecho</groupId>
+            <artifactId>beecho-registry-zookeeper</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+    </dependencies>
 
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/beecho-client/beecho-client.iml" filepath="$PROJECT_DIR$/beecho-client/beecho-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-common/beecho-common.iml" filepath="$PROJECT_DIR$/beecho-common/beecho-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-registry/beecho-registry.iml" filepath="$PROJECT_DIR$/beecho-registry/beecho-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" filepath="$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-server/beecho-server.iml" filepath="$PROJECT_DIR$/beecho-server/beecho-server.iml" />
     </modules>
   </component>

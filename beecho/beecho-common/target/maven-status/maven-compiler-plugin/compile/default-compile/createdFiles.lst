@@ -1,0 +1,7 @@
+com\xxx\beecho\common\bean\RpcRequest.class
+com\xxx\beecho\common\util\StringUtil.class
+com\xxx\beecho\common\codec\RpcEncoder.class
+com\xxx\beecho\common\util\SerializationUtil.class
+com\xxx\beecho\common\codec\RpcDecoder.class
+com\xxx\beecho\common\bean\RpcResponse.class
+com\xxx\beecho\common\util\CollectionUtil.class
