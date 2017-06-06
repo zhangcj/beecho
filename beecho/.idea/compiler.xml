@@ -24,6 +24,9 @@
         <processorPath useClasspath="true" />
         <module name="beecho-client" />
         <module name="beecho-common" />
+        <module name="beecho-example-api" />
+        <module name="beecho-example-client" />
+        <module name="beecho-example-server" />
         <module name="beecho-registry" />
         <module name="beecho-registry-zookeeper" />
         <module name="beecho-server" />
@@ -33,6 +36,9 @@
       <module name="beecho" target="1.8" />
       <module name="beecho-client" target="1.8" />
       <module name="beecho-common" target="1.8" />
+      <module name="beecho-example-api" target="1.8" />
+      <module name="beecho-example-client" target="1.8" />
+      <module name="beecho-example-server" target="1.8" />
       <module name="beecho-registry" target="1.8" />
       <module name="beecho-registry-zookeeper" target="1.8" />
       <module name="beecho-server" target="1.8" />

@@ -126,6 +126,9 @@
         <module>beecho-server</module>
         <module>beecho-registry</module>
         <module>beecho-registry-zookeeper</module>
+        <module>beecho-example-api</module>
+        <module>beecho-example-server</module>
+        <module>beecho-example-client</module>
     </modules>
 
 </project>

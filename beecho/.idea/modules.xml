@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/beecho.iml" filepath="$PROJECT_DIR$/beecho.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-client/beecho-client.iml" filepath="$PROJECT_DIR$/beecho-client/beecho-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-common/beecho-common.iml" filepath="$PROJECT_DIR$/beecho-common/beecho-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-example-api/beecho-example-api.iml" filepath="$PROJECT_DIR$/beecho-example-api/beecho-example-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-example-client/beecho-example-client.iml" filepath="$PROJECT_DIR$/beecho-example-client/beecho-example-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-example-server/beecho-example-server.iml" filepath="$PROJECT_DIR$/beecho-example-server/beecho-example-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-registry/beecho-registry.iml" filepath="$PROJECT_DIR$/beecho-registry/beecho-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" filepath="$PROJECT_DIR$/beecho-registry-zookeeper/beecho-registry-zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecho-server/beecho-server.iml" filepath="$PROJECT_DIR$/beecho-server/beecho-server.iml" />
