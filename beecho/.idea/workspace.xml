@@ -2,81 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab5ce6a-0085-4202-a36a-542ac44f5f7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-api/beecho-example-api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-api/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/EchoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-client/beecho-example-client.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-client/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-client/src/main/resources/rpc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-client/src/main/resources/spring.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/beecho-example-server.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoBootstrap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/src/main/resources/rpc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/src/main/resources/spring.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/example-api.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/src/main/java/com/xxx/beecho/example/api/EchoService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/src/main/java/com/xxx/beecho/example/api/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/target/classes/com/xxx/beecho/example/api/EchoService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/target/classes/com/xxx/beecho/example/api/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/target/example-api-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-api/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/example-server.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/src/main/java/com/xxx/beecho/example/server/RpcBootstrap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/src/main/resources/rpc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/src/main/resources/spring.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/target/classes/com/xxx/beecho/example/server/EchoServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/target/classes/com/xxx/beecho/example/server/RpcBootstrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/target/classes/rpc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example-server/target/classes/spring.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/example.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/src/main/java/com/xxx/beecho/example/client/EchoClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/src/main/resources/rpc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../example/src/main/resources/spring.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/beecho-registry-zookeeper-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/beecho-registry-zookeeper-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl_v2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.class" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.class" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/target/classes/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer.class" afterPath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/BeechoServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/RpcServerHandler.class" afterPath="$PROJECT_DIR$/beecho-server/target/classes/com/xxx/beecho/server/RpcServerHandler.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java" afterPath="$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java" afterPath="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" afterPath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java" afterPath="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java" />
     </list>
     <ignored path="beecho.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,77 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EchoServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoBootstrap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoBootstrap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/resources/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rpc.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/resources/rpc.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beecho-example-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -190,32 +55,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-server/pom.xml">
+      <file leaf-file-name="EchoBootstrap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="126">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpcProxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="34" column="81" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EchoClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rpc.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/rpc.properties">
+      <file leaf-file-name="EchoServiceImpl_v2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl_v2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="144">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beecho-server/pom.xml">
+      <file leaf-file-name="EchoServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="41" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="162">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -255,14 +154,10 @@
         <option value="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/bean/RpcResponse.java" />
         <option value="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/codec/RpcDecoder.java" />
         <option value="$PROJECT_DIR$/beecho-common/src/main/java/com/xxx/beecho/common/codec/RpcEncoder.java" />
-        <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java" />
-        <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" />
         <option value="$PROJECT_DIR$/beecho-client/pom.xml" />
         <option value="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcClient.java" />
         <option value="$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java" />
         <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java" />
-        <option value="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" />
-        <option value="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/beecho-example-api/pom.xml" />
         <option value="$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/Person.java" />
@@ -273,9 +168,14 @@
         <option value="$PROJECT_DIR$/beecho-example-server/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/beecho-example-server/src/main/resources/rpc.properties" />
         <option value="$PROJECT_DIR$/beecho-example-client/pom.xml" />
-        <option value="$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java" />
         <option value="$PROJECT_DIR$/beecho-example-client/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/beecho-example-client/src/main/resources/rpc.properties" />
+        <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java" />
+        <option value="$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java" />
+        <option value="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java" />
+        <option value="$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java" />
+        <option value="$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java" />
+        <option value="$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl_v2.java" />
       </list>
     </option>
   </component>
@@ -305,37 +205,13 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="beecho" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="beecho" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="684" />
-    <option name="y" value="78" />
-    <option name="width" value="1467" />
-    <option name="height" value="925" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -435,10 +311,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -486,7 +358,47 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\node\node.exe" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EchoClient">
+    <configuration default="false" name="EchoBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.beecho.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.xxx.beecho.example.server.EchoBootstrap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="beecho-example-server" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.beecho.example.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.xxx.beecho.example.client.EchoClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="beecho-example-client" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -923,6 +835,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.EchoBootstrap" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EchoClient" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.EchoClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EchoBootstrap" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -940,30 +862,31 @@
       <workItem from="1496630043842" duration="168000" />
       <workItem from="1496630408767" duration="3429000" />
       <workItem from="1496639599158" duration="15022000" />
-      <workItem from="1496717394577" duration="875000" />
+      <workItem from="1496717394577" duration="4124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19494000" />
+    <option name="totallyTimeSpent" value="22743000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="78" width="1467" height="925" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19365954" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29926237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29926237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2019297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20364584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -998,14 +921,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beecho-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -1141,6 +1056,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,6 +1067,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,6 +1091,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1176,6 +1103,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,6 +1113,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1197,23 +1128,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#692#693#0" expanded="false" />
-            <element signature="e#748#749#0" expanded="false" />
-            <element signature="e#806#807#0" expanded="false" />
-            <element signature="e#855#856#0" expanded="false" />
-            <element signature="method#create#1;class#RpcProxy#0" expanded="false" />
-            <element signature="e#1118#3384#0" expanded="false" />
-            <element signature="e#3383#3384#0" expanded="false" />
+            <marker date="1496651538733" expanded="true" signature="492:567" ph="/**...*/" />
           </folding>
         </state>
       </provider>
@@ -1226,68 +1142,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
-            <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
-            <element signature="method#afterPropertiesSet#0;class#BeechoServer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1308,53 +1166,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/EchoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="41" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoBootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/rpc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1367,20 +1182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beecho-example-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -1389,21 +1190,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java">
+    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/rpc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        <state relative-caret-position="18">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry/src/main/java/com/xxx/beecho/registry/ServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/RpcServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="44" column="60" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#handle#0;class#RpcServerHandler#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceDiscovery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="47" column="69" selection-start-line="47" selection-start-column="69" selection-end-line="47" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-registry-zookeeper/src/main/java/com/xxx/beecho/registry/zookeeper/ZooKeeperServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/BeechoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+          <folding>
+            <element signature="method#BeechoServer#1;class#BeechoServer#0" expanded="false" />
+            <element signature="method#setApplicationContext#0;class#BeechoServer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/EchoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1420,6 +1280,84 @@
         <state relative-caret-position="342">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-server/src/main/java/com/xxx/beecho/server/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-api/src/main/java/com/xxx/beecho/example/api/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-server/src/main/java/com/xxx/beecho/example/server/EchoServiceImpl_v2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-example-client/src/main/java/com/xxx/beecho/example/client/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beecho-client/src/main/java/com/xxx/beecho/client/RpcProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="34" column="81" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

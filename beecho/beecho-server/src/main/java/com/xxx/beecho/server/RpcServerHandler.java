@@ -33,6 +33,7 @@ public class RpcServerHandler extends SimpleChannelInboundHandler<RpcRequest> {
             Object result = handle(rpcRequest);
             rpcResponse.setResult(result);
         }catch (Exception ex){
+            System.out.println("handle result failure :"+ex);
             rpcResponse.setException(ex);
         }
         // 写入 RPC 响应对象并自动关闭连接
@@ -41,6 +42,7 @@ public class RpcServerHandler extends SimpleChannelInboundHandler<RpcRequest> {
 
     @Override
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
+        System.out.println("server caught exception :"+cause);
         ctx.close();
     }
 

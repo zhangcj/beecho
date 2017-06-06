@@ -105,11 +105,14 @@ public class BeechoServer implements InitializingBean,ApplicationContextAware {
             ChannelFuture future = bootstrap.bind(ip,port).sync();
             // 注册 RPC 服务地址
             if(serviceRegistry != null){
-                for (String interfaceName : hadlerMap.keySet()){
-                    serviceRegistry.register(interfaceName,serviceAddress);
+                for (String interfaceName : hadlerMap.keySet()) {
+                    serviceRegistry.register(interfaceName, serviceAddress);
+
+                    System.out.println("register service: " + interfaceName + " => " + serviceAddress);
                 }
             }
 
+            System.out.println("server started on port "+port);
             // 关闭 RPC 服务器
             future.channel().closeFuture().sync();
         }finally {
